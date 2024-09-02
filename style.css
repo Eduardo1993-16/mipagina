@@ -51,17 +51,14 @@ body {
   }
   
   #image {
-    width: 1300px;
-    padding: 20px;
-    height: 100px;
-    justify-content: center;
-    align-items: end;
-    display: flex;
-    margin-left: auto;
-    }
+    width: 400px;
+  padding: 20px;
+  height: 300px;
+  margin-align: auto;
+  }
   
   h2 {
     color: #111111;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: center;
-}
+    font-size: 17px;
+  }

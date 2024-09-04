@@ -44,18 +44,19 @@ body {
   
   
   #box {
-  width: 400px;
+  width: 700px;
   padding: 20px;
   height: 200px;
   margin-right:0%;
   }
   
-  #image {
+  
+  #image img {
     width: 400px;
   padding: 20px;
-  height: 300px;
-  margin-align: auto;
-  }
+  height: 400px;
+ margin-top: auto;
+}
   
   h2 {
     color: #111111;
